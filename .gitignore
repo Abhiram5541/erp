@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.env*
+# internal design exploration (third-party screenshots), not part of the site
+dev-refs/
+references.html
+concepts.html
